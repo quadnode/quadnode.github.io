@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://quadnode.github.io/sitemap.xml 

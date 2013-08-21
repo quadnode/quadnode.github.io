@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[QuadNode]]></title>
+  <link href="http://quadnode.github.io/atom.xml" rel="self"/>
+  <link href="http://quadnode.github.io/"/>
+  <updated>2013-08-21T12:28:50+05:30</updated>
+  <id>http://quadnode.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction to QuadNode]]></title>
+    <link href="http://quadnode.github.io/2013/08/21/introduction-to-quadnode/"/>
+    <updated>2013-08-21T12:27:00+05:30</updated>
+    <id>http://quadnode.github.io/2013/08/21/introduction-to-quadnode</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
